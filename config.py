@@ -11,7 +11,7 @@ API_HASH = os.environ.get("API_HASH", "2f10533d9068507d0c10bf1074527167")
 
 
 OWNER_ID = int(os.environ.get("OWNER_ID", "1731356432"))
-DB_URL = os.environ.get("DB_URL", "")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://ybawaskar1987:bBpiCuWZ5RLKuuzg@mzfilestore.ah4tr.mongodb.net/?retryWrites=true&w=majority&appName=mzfilestore")
 DB_NAME = os.environ.get("DB_NAME", "mzfilestore02")
 
 
